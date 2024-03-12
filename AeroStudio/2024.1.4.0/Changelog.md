@@ -10,3 +10,7 @@
 
 - Crosshairs indicated the center of some objects now scales with camera distance
 - Autoscale obeys sign of scale transform to ensure mirrored axes are maintained
+
+## Bug Fixes
+
+- Logging out no longer results in an auto-login occurring shortly after
