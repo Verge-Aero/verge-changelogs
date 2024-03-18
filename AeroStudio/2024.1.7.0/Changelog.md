@@ -21,3 +21,5 @@
 - Fixed bounds for the sphere scene object being half the size it should be
 - Fixed issue where newly created show effects would not be editable until after saving/loading
 - Fixed issue where search bar would not work when making the same search twice
+- Fixed agent hierarchy not properly expanding with a scroll bar
+- Fixed agent hierarchy not appearing at all in builds
