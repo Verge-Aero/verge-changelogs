@@ -1,7 +1,12 @@
 # AERO Studio - 2024.1.10.0
 
+## Changes
+
+- Increases max playback speed for rendering to video
+
 ## Enhancements
 
+- Adds motion blur to drone lights to enhance visuals, especially during sped-up renders
 - Improved default position for instantiated vfabs/show effects in the studio
 
 ## Bug Fixes
