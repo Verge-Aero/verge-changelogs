@@ -1,4 +1,4 @@
-# AERO Console - 2024.1.14.0
+# AERO Console - 2024.1.15.0
 
 ## Features
 
