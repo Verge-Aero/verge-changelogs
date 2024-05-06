@@ -17,6 +17,7 @@
 
 - [UI] Collapses inspector view to provide more device grid view space
 - [UI] Visual improvements to command bar
+- [Performance] No longer draws 3D view when in grid view
 
 ## Bug Fixes
 

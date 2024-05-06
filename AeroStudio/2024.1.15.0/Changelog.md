@@ -5,6 +5,7 @@
 - [Lighting] Added ability to reverse the direction of a shape chase
 
 ## Enhancements
+
 - [Show Effects] Converting a scene object into a show effect will now retime all events so that the earliest event begins at 0 and all others adjust accordingly
 - [Show Effects] When publishing a show effect, the default drone count will now refer to existing launch pads to provide a more relevant default value
 
