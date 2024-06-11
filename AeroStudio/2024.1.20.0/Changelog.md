@@ -1,4 +1,4 @@
-# AERO Studio - 2024.1.19.0
+# AERO Studio - 2024.1.20.0
 
 ## Features
 
