@@ -11,3 +11,4 @@
 - [**Color Picker**] Fixed issue where last selected palette would reset when opening and closing the color picker
 - [**Color Picker**] Fixed "Add" button not working for color swatches
 - [**Color Picker**] Fixed "Remove" button not working for color swatches
+- [**Backups**] Fixed customer backup directory not applying correctly
