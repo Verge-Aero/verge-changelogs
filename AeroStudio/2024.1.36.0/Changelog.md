@@ -6,6 +6,7 @@
 
 ## Enhancements
 
+- [**OSX**] Render time has been reduced by around 33%
 - [**Launchpad**] Raises the max supported drone count from 3000 to 10000
 
 ## Bug Fixes
