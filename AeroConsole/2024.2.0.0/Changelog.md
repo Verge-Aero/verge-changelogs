@@ -25,6 +25,7 @@
 - [UI] Anchor adjustment UI now places adjustment UI next to adjustment graph
 - [UI] Filter now shows device types rather than object resources
 - [UI] Added inspector for when multiple drones are selected
+- [UI] Added option to quickly switch to manual launch trigger
 - [Scene View] Drones and slotting info are now drawn in showtime mode
 
 ## Bug Fixes
