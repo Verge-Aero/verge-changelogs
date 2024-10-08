@@ -8,7 +8,7 @@
 - [**Pyro**] Added ability to set individual mount directions for pyro payloads
 - [**Payload Targets**] Directionality of pyro payloads are now reflected in the editor view as color-coded arrows
 - [**Modifiers**] Added "Melt" modifier
-- [**Launchpad Merger**] Added new "Launchpad Merger" object that can be used to combine launchpads into a single formation
+- [**Launchpad Merger**] Added new ["Launchpad Merger"](https://docs.verge.aero/drone-show-software/publish-your-docs/advanced-topics/using-multiple-launchpads) object that can be used to combine launchpads into a single formation
 
 ## Improvements
 
