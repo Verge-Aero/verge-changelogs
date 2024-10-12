@@ -5,6 +5,10 @@
 - [**Splines**] Added new fill slotting mode
 - [**Polygons**] Added new slotting method that makes more effective use of the space (this is now the default mode)
 
+## Enhancements
+
+- [**UI**] Added confirmation prompt for when the user is converting a scene object to a show effect
+
 ## Bug Fixes
 
 - [**Splines**] Fixes spline handles being incorrectly sized when the scene camera is in orthographic mode
