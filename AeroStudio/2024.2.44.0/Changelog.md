@@ -6,7 +6,7 @@
 
 ## Features
 
-- [**Simulation**] Added the ability to render specific portions of a show, reusing data from previous renders
+- [**Simulation**] Added the ability to simulate specific portions of a show, reusing data from previous simulations
 - [**Simulation**] Added the ability to clear simulation data
 - [**Tags**] Added the ability to show and hide timeline tags
 
