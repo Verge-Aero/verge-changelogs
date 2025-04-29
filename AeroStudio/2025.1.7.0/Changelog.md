@@ -36,7 +36,7 @@
 - [**Startup**] Load previous show dialog now shows show file name and filesize
 - [**Scene Hierarchy**] Hierarchy is no longer hidden when showing a blocking prompt
 - [**Scene Hierarchy**] Deselecting a changed hierarchy entry will now keep any rename
-- 
+  
 ## Bug Fixes
 
 - [**Cursor**] Fixed long-standing issue where cursor colors would be faded on all platforms
