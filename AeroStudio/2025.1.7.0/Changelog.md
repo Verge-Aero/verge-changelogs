@@ -1,4 +1,4 @@
-# AERO Studio - 2025.1.0
+# AERO Studio - 2025.1.7
 
 ## Features
 
