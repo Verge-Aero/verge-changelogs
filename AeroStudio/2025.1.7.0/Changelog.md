@@ -26,6 +26,8 @@
     - Undo/Redo now preserves spline selection
     - Bounds are recomputed in realtime when modifying spline control points
 
+- [**Inspector**] If an object is referenced by a formation group, its element UI is now directly exposed within the inspector when selected
+
 ## Improvements
 
 - [**Transitions**] Added ability to stagger join objects sequentially based on geometric order
@@ -36,7 +38,8 @@
 - [**Startup**] Load previous show dialog now shows show file name and filesize
 - [**Scene Hierarchy**] Hierarchy is no longer hidden when showing a blocking prompt
 - [**Scene Hierarchy**] Deselecting a changed hierarchy entry will now keep any rename
-- 
+- [**Inspector**] Double-clicking on a scene reference will now select the targeted object
+
 ## Bug Fixes
 
 - [**Cursor**] Fixed long-standing issue where cursor colors would be faded on all platforms
