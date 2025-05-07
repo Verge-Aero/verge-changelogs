@@ -13,4 +13,4 @@
 - [**Compound Spline**] Fixed issue where compound spline bounds always included the local 0,0,0 coordinate
 - [**Compound Spline**] Fixed issue where gradients wouldn't be resolved properly for individual splines
 - [**Compound Spline**] Fixed metadata not being saved properly
-- [**Compound Spline**] Fixed issue where cloud rendering would fail to export pyro metadata properly
+- [**Cloud**] Fixed issue where cloud rendering would fail to export pyro metadata properly
