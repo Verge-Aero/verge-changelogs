@@ -6,9 +6,9 @@
 - [**Formation Group**] Added undo/redo support for deleting formation group elements
 - [**Formation Group**] Added undo/redo support for creating formation group elements
 - [**Formation Group**] Added undo/redo support for reorganizing formation group elements
-- [**Compound Spline**] Added undo/redo support for deleting formation group elements
-- [**Compound Spline**] Added undo/redo support for creating formation group elements
-- [**Compound Spline**] Added undo/redo support for reorganizing formation group elements
+- [**Compound Spline**] Added undo/redo support for deleting splines in the inspector
+- [**Compound Spline**] Added undo/redo support for creating splines in the inspector
+- [**Compound Spline**] Added undo/redo support for reorganizing splines in the inspector
   
 ## Bug Fixes
 
