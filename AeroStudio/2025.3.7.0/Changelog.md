@@ -14,6 +14,8 @@
   - **Image To Depth**: Convert a color image into a depth map
   - **Generate Image**: Generate a source image from a prompt and style input
 
+- [**Geometry Nodes**] 
+  - **Depth Extrusion Node**: Apply a depth map to extrude a formation in the Z direction
 - [**Math Nodes**] 
   - **Multiply**
   - **Divide**
